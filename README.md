@@ -123,6 +123,7 @@ Maxwell矩阵与Spice矩阵的关系为：对同一个概念使用两个不同�
 对电压系数进行匹配，得到：
 
 ![image](https://github.com/WangRui8217/Ansys_Q3D/blob/main/images/26.png)
+
 定义：
 ![image](https://github.com/WangRui8217/Ansys_Q3D/blob/main/images/30.png)
 ![image](https://github.com/WangRui8217/Ansys_Q3D/blob/main/images/31.png)
