@@ -123,10 +123,11 @@ Maxwell矩阵与Spice矩阵的关系为：对同一个概念使用两个不同�
 对电压系数进行匹配，得到：
 
 ![image](https://github.com/WangRui8217/Ansys_Q3D/blob/main/images/26.png)
+定义：
+![image](https://github.com/WangRui8217/Ansys_Q3D/blob/main/images/30.png)
+![image](https://github.com/WangRui8217/Ansys_Q3D/blob/main/images/31.png)
 
-
-
-Maxwell矩阵方程为:
+由两导体场解的能量Ue计算得到Maxwell电容矩阵方程为:
 
 ![image](https://github.com/WangRui8217/Ansys_Q3D/blob/main/images/27.png)
 
